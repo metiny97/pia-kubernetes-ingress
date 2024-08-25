@@ -59,7 +59,7 @@ Browserınız'da flaskapp.local sayfasına giderek Hello World yazısı ile kar�
 
 
 ### Replica Setlerin Sayılarının Değiştirilmesi
-Deploymentımınzda bulunan replica setlerin sayısını 2den 5e çıkarabiliriz
+Deployment'ımızda bulunan replica set'lerin sayısını 2'den 5'e çıkarabiliriz.
 ``` 
 kubectl scale deployment flask-helloworld --replicas=5
 ```
