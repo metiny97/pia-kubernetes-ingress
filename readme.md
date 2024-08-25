@@ -9,6 +9,9 @@ helm upgrade --install ingress-nginx ingress-nginx \
 ```
 
 ## Repositry'nin Clonelanması
+```
+git clone https://github.com/metiny97/pia-kubernetes-ingress.git
+```
 
 ## YAML Dosyalarının Uygulanması
 Clone edilen repoya gidin ve Kubernetes YAML dosyalarınızı uygulayın:
