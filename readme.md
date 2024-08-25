@@ -1,3 +1,11 @@
+# Ödev
+
+## Gereklilikler
+
+- Docker ve Kubernetes'in bilgisayarınızda kurulu olması.
+- Ingress Controller'ı yüklemek için Helm Package Manager'ın kurulu olması.
+
+## Ingress Controller Kurulumu
 Ingress Controller için helm dışında başka bir indirme yöntemi tercih ediyorsanız, buradan istediğiniz yöntemi [detaylı bulabilirsiniz](https://kubernetes.github.io/ingress-nginx/deploy/).
 
 Helm ile Kubernetes üzerinde `ingress-nginx` adlı Ingress denetleyicisini kurmak için aşağıdaki komutu kullanın:
